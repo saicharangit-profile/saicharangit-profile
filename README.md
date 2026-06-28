@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Saicharan+Gollapalli;DSA+Enthusiast;Backend+Developer;Open+Source+Learner"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Saicharan%20Gollapalli&fontSize=42&fontColor=ffffff&color=0:1e293b,100:0f172a"/>
 </p>
 
 <p align="center">
