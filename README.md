@@ -14,6 +14,32 @@
 <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,mongodb,mysql,git,github,postman,vscode"/>
 
 </p>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saimacuser-dotcom&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimacuser-dotcom&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=saimacuser-dotcom&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saimacuser-dotcom&theme=tokyo-night"/>
+
+</p>
+<p align="center">
+
+<a href="https://leetcode.com/u/saicharan-git/">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+</p>
 <!--
 **saimacuser-dotcom/saimacuser-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
