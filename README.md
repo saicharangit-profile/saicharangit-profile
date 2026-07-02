@@ -1,7 +1,7 @@
-# Hi, I'm Saicharan Gollapalli 👋
+<h1 align="center">Hi, I'm Saicharan Gollapalli 👋</h1>
 
 <p align="center">
-  <b>Backend Developer • Full-Stack Developer • DSA Enthusiast</b>
+Backend Developer • Full-Stack Developer • DSA Enthusiast
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Building systems that solve real problems.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/saicharangit-profile">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -24,9 +24,13 @@ Building systems that solve real problems.
 
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=saicharangit-profile&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## About Me
+## 🚀 About Me
 
 Computer Science undergraduate at **Sir C R Reddy College of Engineering**.
 
@@ -34,19 +38,28 @@ Passionate about backend engineering, scalable systems, APIs, databases, and sol
 
 ```yaml
 Location: Andhra Pradesh, India
-Degree: B.Tech CSE (2024–2028)
-Focus: Backend Engineering
+
+Degree:
+B.Tech Computer Science (2024–2028)
+
+Focus:
+- Backend Development
+- Full Stack Engineering
+- Data Structures & Algorithms
+
 Interests:
-  - System Design
-  - DSA
-  - Backend Development
-  - Full Stack Applications
-Status: Open to SWE Internships
+- System Design
+- Databases
+- REST APIs
+- Scalable Applications
+
+Status:
+Open to SWE Internships
 ```
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 
@@ -56,47 +69,52 @@ Status: Open to SWE Internships
 
 ---
 
-# Projects
+## 🚀 Projects
 
-### 🚀 Revision Tracker
+### Revision Tracker
 
-A platform designed for long-term DSA retention using spaced repetition.
+Spaced repetition platform designed for long-term DSA retention.
 
 **Features**
 
 - Authentication
-- Personalized review schedules
-- Progress tracking
-- Analytics dashboard
-- Category-wise revision
+- Personalized review scheduling
+- Progress analytics
+- Category tracking
+- Retention visualization
 
-**Tech Stack**
+**Stack**
 
-`Node.js` • `Express.js` • `MongoDB` • `JWT`
+`Node.js`
+`Express.js`
+`MongoDB`
+`JWT`
 
 ---
 
-### 🎫 Q Mate
+### Q Mate
 
 Digital queue management platform.
 
 **Features**
 
-- QR token generation
-- Real-time position tracking
-- Firebase synchronization
+- QR Token Generation
+- Live Position Tracking
+- Firebase Synchronization
 
-**Tech Stack**
+**Stack**
 
-`React` • `Firebase` • `Node.js`
+`React`
+`Firebase`
+`Node.js`
 
 ---
 
-### 📁 Portfolio Website
+### Portfolio Website
 
-Responsive personal portfolio with backend-powered contact handling.
+Responsive portfolio with backend-powered contact handling.
 
-**Tech Stack**
+**Stack**
 
 `HTML`
 `CSS`
@@ -106,11 +124,11 @@ Responsive personal portfolio with backend-powered contact handling.
 
 ---
 
-### 🧮 Profit Calculator
+### Profit Calculator
 
 Bilingual calculator application rebuilt from a C++ implementation.
 
-**Tech Stack**
+**Stack**
 
 `HTML`
 `CSS`
@@ -118,18 +136,21 @@ Bilingual calculator application rebuilt from a C++ implementation.
 
 ---
 
-# Skills
+## 📈 Skills
 
 ```text
-Backend         ████████████████░░░░ 80%
-Databases       ██████████████████░░ 90%
-Frontend        ███████████████░░░░░ 75%
-DSA             ████████████████░░░░ 80%
+Backend        ████████████████░░░░ 80%
+
+Databases      ██████████████████░░ 90%
+
+Frontend       ███████████████░░░░░ 75%
+
+DSA            ████████████████░░░░ 80%
 ```
 
 ---
 
-# Achievements
+## 🏆 Achievements
 
 🏅 Smart India Hackathon – Internal Qualifier
 
@@ -145,31 +166,35 @@ DSA             ████████████████░░░░ 80%
 
 ---
 
-# GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saicharangit-profile&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharangit-profile&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# Currently Learning
+## 🌱 Currently Learning
 
 ```text
 ✓ Advanced DSA
+
 ✓ Backend Architecture
-✓ Databases
+
+✓ Database Optimization
+
 ✓ System Design Fundamentals
+
 ✓ Cloud Basics
 ```
 
 ---
 
-# Let's Connect
+## 📬 Connect With Me
 
 <p align="center">
 
@@ -185,6 +210,8 @@ DSA             ████████████████░░░░ 80%
 
 <p align="center">
 
-<b>Building products, learning continuously, and preparing for impactful software engineering roles.</b>
+<b>
+Building products, sharpening problem-solving skills, and preparing for impactful software engineering roles.
+</b>
 
 </p>
