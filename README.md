@@ -1,263 +1,167 @@
 <div align="center">
 
-# Saicharan Gollapalli
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,30:1e3a8a,70:2563eb,100:38bdf8&text=Saicharan%20Gollapalli&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20Full%20Stack%20Developer%20•%20Open%20to%20Internships&descAlignY=55"/>
 
-### Backend Engineer • Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;Node.js+%7C+Express+%7C+MongoDB;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=saicharangit-profile&style=flat-square&color=blue"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&width=600&lines=Open+to+Software+Engineering+Internships;Backend+Developer;Full+Stack+Developer;DSA+Enthusiast"/>
-
-<br><br>
-
-<a href="mailto:saicharangollapalli0@gmail.com">
-
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/saicharangit-profile">
-
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/saicharan-gollapalli-01b091336/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
+<img src="https://komarev.com/ghpvc/?username=saicharangit-profile&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-## `// summary.txt`
+# 👋 Hey, I'm Saicharan
 
-I'm a Computer Science undergraduate at **Sir C R Reddy College of Engineering**, with a bias toward the backend: designing REST APIs, modeling data, and reasoning about how a system behaves once real users start hitting it.
+```cpp
+class Developer {
+public:
+    string name = "Saicharan Gollapalli";
+    string role = "Backend Engineer";
+    string education = "B.Tech CSE (2024-2028)";
+    string location = "Andhra Pradesh, India";
 
-My foundation is in:
+    vector<string> techStack = {
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "React",
+        "MySQL",
+        "JavaScript",
+        "C++"
+    };
 
-- Data Structures & Algorithms
+    string currentFocus =
+        "Building scalable backend systems while mastering DSA.";
 
-- OOP
-
-- DBMS
-
-- Operating Systems
-
-- Computer Networks
-
-along with practical experience in
-
-**Node.js • Express • MongoDB • MySQL • React**
-
-I'm looking for a **Software Engineering Internship** at a product company where I can own real features and learn through shipping.
-
-```txt
-
-location   Andhra Pradesh, IN
-
-study      B.Tech CS, 2024–2028
-
-focus      Backend & Full-Stack
-
-status     Open to internships
-
+    bool openToInternships = true;
+};
 ```
 
 ---
 
-## `// skills_overview`
+## 🚀 About Me
 
-```txt
+- 🎓 Computer Science Undergraduate
+- 💻 Passionate about Backend Engineering & Full-Stack Development
+- ⚡ Strong foundation in **DSA, OOP, DBMS, Operating Systems & Computer Networks**
+- 📚 Solving LeetCode consistently and building real-world projects
+- 🎯 Looking for **Software Engineering Internship** opportunities
 
-BACKEND         █████████████████░░░ 85%
+---
 
-DATABASES       ██████████████████░░ 90%
-
-FRONTEND        ███████████████░░░░░ 75%
-
-DSA & SYSTEMS   ████████████████░░░░ 80%
-
-```
+## ⚙️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,nodejs,express,react,mongodb,mysql,firebase,docker,git,github,figma,html,css,tailwindcss"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,nodejs,express,react,mongodb,mysql,firebase,docker,git,github,html,css,tailwind,vscode"/>
 
 </p>
 
 ---
 
-## `// build.log`
+# 🚀 Featured Projects
 
-| Timeline | Role | What it was |
+### 📚 Revision Tracker
+> SaaS platform helping students retain DSA concepts using spaced repetition.
 
-|---|---|---|
+**Tech:** Node.js • Express • MongoDB • JWT
 
-| `Jan 2026 — Present` | Backend Developer | **Revision Tracker** |
-
-| `Jan – Mar 2025` | Full Stack Developer | **Q Mate** |
-
-| `Apr – May 2025` | Full Stack Developer | **Portfolio Website** |
-
-| `May – Jun 2025` | Frontend Developer | **Profit Calculator** |
+✅ Authentication  
+✅ Revision Scheduling  
+✅ Streak Tracking  
+✅ Progress Analytics
 
 ---
 
-## `// projects/`
+### 🎫 Q Mate
+QR-based queue management system with real-time tracking.
 
-<details open>
-
-<summary>
-
-<b>🚀 Revision Tracker</b>
-
-</summary>
-
-<br>
-
-> SaaS platform for DSA retention built around spaced repetition.
-
-```txt
-
-PERFORMANCE    ████████████████████ 100%
-
-RELIABILITY    ██████████████████░░  90%
-
-SCALABILITY    ████████████████████ 100%
-
-```
-
-`Node`
-
-`Express`
-
-`MongoDB`
-
-`JWT`
-
-</details>
-
-<details>
-
-<summary>
-
-<b>🎫 Q Mate</b>
-
-</summary>
-
-<br>
-
-> QR-based queue management system with real-time tracking.
-
-```txt
-
-PERFORMANCE    ████████████████░░░░ 80%
-
-RELIABILITY    ████████████████████ 100%
-
-SCALABILITY    ██████████████░░░░░░ 70%
-
-```
-
-`React`
-
-`Firebase`
-
-`Express`
-
-</details>
-
-<details>
-
-<summary>
-
-<b>📁 Portfolio Site</b>
-
-</summary>
-
-<br>
-
-> Responsive portfolio with backend contact integration.
-
-```txt
-
-PERFORMANCE    ██████████████░░░░░░ 70%
-
-RELIABILITY    ████████████████░░░░ 80%
-
-SCALABILITY    ████████████░░░░░░░░ 60%
-
-```
-
-`HTML`
-
-`CSS`
-
-`JS`
-
-`Node`
-
-</details>
+**Tech:** React • Firebase • Express
 
 ---
 
-## `// achievements.log`
+### 🌐 Portfolio Website
+Modern responsive portfolio with backend contact integration.
 
-| | Milestone |
-
-|---|---|
-
-| 🏅 | Smart India Hackathon Qualifier |
-
-| 🏅 | National Level Hackathon Participant |
-
-| ♦️ | Regular LeetCode Practitioner |
-
-| ⭐ | JavaScript Professional Certificate |
-
-| ⭐ | Python Certification |
-
-| ⭐ | Machine Learning Fundamentals |
-
-| ⭐ | Frontend Technologies Specialization |
+**Tech:** HTML • CSS • JavaScript • Node.js
 
 ---
 
-## `// analytics`
+## 🏆 Achievements
+
+- 🥇 Smart India Hackathon Qualifier
+- 🚀 National Level Hackathon Participant
+- 💯 Consistent LeetCode Problem Solver
+- 📜 JavaScript Professional Certificate
+- 📜 Python Certification
+- 📜 Machine Learning Fundamentals
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saicharangit-profile&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saicharangit-profile&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharangit-profile&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharangit-profile&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharangit-profile&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharangit-profile&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## `// contact()`
+## 💻 Coding Profiles
 
-<div align="center">
+<p align="center">
 
-Looking for opportunities to build real products, ship features, and grow as a software engineer.
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<br><br>
+<a href="YOUR_GFG_LINK">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="YOUR_CODEFORCES_LINK">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
 
 <a href="mailto:saicharangollapalli0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<a href="https://github.com/saicharangit-profile">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saicharan-gollapalli-01b091336/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
+
+</p>
+
+<div align="center">
+
+### ⭐ *"Driven by curiosity, powered by consistency, and committed to building impactful software."*
 
 </div>
